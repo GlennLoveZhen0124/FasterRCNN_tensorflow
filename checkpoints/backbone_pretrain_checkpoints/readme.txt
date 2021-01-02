@@ -1,0 +1,1 @@
+This is the folder for ImageNet pretrained backbone checkpoints.
