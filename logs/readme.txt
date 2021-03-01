@@ -1,1 +1,0 @@
-This is the log folder, for caching all training logs.

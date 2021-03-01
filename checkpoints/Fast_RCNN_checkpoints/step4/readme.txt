@@ -1,1 +1,0 @@
-This is the folder for FastRCNN checkpoints in step4

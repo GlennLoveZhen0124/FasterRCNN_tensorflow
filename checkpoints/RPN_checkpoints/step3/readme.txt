@@ -1,1 +1,0 @@
-This is the folder for RPN checkpoints in step3
