@@ -3,7 +3,7 @@
 #### 	Description:
     	This project use 4-steps way to train FasterRCNN model, as described in the original paper.(Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks)
 
-		Paper address: [https://arxiv.org/abs/1506.01497](http://)
+		Paper address: https://arxiv.org/abs/1506.01497
 
 #### 	Train:
     	(1) resize your train and val images to (640,640,3), and generate corresponding xml files (VOC style)
